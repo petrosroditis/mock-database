@@ -1,14 +1,24 @@
 {
-  "rooms": [
+  "liveSumReport": [
     {
-      "id": 1,
-      "title": "Αίθουσα Α",
-      "participantsCount": "57"
+      "totalCheckIn": "132"
     },
     {
-      "id": 2,
-      "title": "Αίθουσα B",
-      "participantsCount": "32"
+      "liveCheckIn": "102"
+    },
+    {
+      "rooms": [
+        {
+          "id": 1,
+          "title": "Αίθουσα Α",
+          "participantsCount": "57"
+        },
+        {
+          "id": 2,
+          "title": "Αίθουσα B",
+          "participantsCount": "32"
+        }
+      ]
     }
   ],
   "report1v2": [
