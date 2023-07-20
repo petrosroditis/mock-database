@@ -26,31 +26,31 @@
       "id": 1,
       "name": "Petros",
       "surname": "Roditis",
-      "totalTime": "2 ώρες 32 λεπτά"
+      "totalMinutes": "2 ώρες 32 λεπτά"
     },
     {
       "id": 2,
       "name": "Παμίνος",
       "surname": "Παπανίδης",
-      "totalTime": "3 ώρες 14 λεπτά"
+      "totalMinutes": "3 ώρες 14 λεπτά"
     },
     {
       "id": 3,
       "name": "Constance",
       "surname": "Noring",
-      "totalTime": "3 ώρες 14 λεπτά"
+      "totalMinutes": "3 ώρες 14 λεπτά"
     },
     {
       "id": 4,
       "name": "Rita",
       "surname": "Book",
-      "totalTime": "3 ώρες 14 λεπτά"
+      "totalMinutes": "3 ώρες 14 λεπτά"
     },
     {
       "id": 5,
       "name": "Augusta",
       "surname": "Wind",
-      "totalTime": "3 ώρες 14 λεπτά"
+      "totalMinutes": "3 ώρες 14 λεπτά"
     }
   ],
   "liveCheckInAnalytics": [
@@ -58,25 +58,25 @@
       "id": 1,
       "name": "Petros",
       "surname": "Roditis",
-      "totalTime": "2 ώρες 32 λεπτά"
+      "totalMinutes": "2 ώρες 32 λεπτά"
     },
     {
       "id": 2,
       "name": "Παμίνος",
       "surname": "Παπανίδης",
-      "totalTime": "3 ώρες 14 λεπτά"
+      "totalMinutes": "3 ώρες 14 λεπτά"
     },
     {
       "id": 3,
       "name": "Constance",
       "surname": "Noring",
-      "totalTime": "3 ώρες 14 λεπτά"
+      "totalMinutes": "3 ώρες 14 λεπτά"
     },
     {
       "id": 4,
       "name": "Rita",
       "surname": "Book",
-      "totalTime": "3 ώρες 14 λεπτά"
+      "totalMinutes": "3 ώρες 14 λεπτά"
     }
   ],
   "liveRoomAnalytics": [
@@ -84,19 +84,19 @@
       "id": 1,
       "name": "Petros",
       "surname": "Roditis",
-      "totalTime": "2 ώρες 32 λεπτά"
+      "totalMinutes": "2 ώρες 32 λεπτά"
     },
     {
       "id": 2,
       "name": "Παμίνος",
       "surname": "Παπανίδης",
-      "totalTime": "3 ώρες 14 λεπτά"
+      "totalMinutes": "3 ώρες 14 λεπτά"
     },
     {
       "id": 3,
       "name": "Constance",
       "surname": "Noring",
-      "totalTime": "3 ώρες 14 λεπτά"
+      "totalMinutes": "3 ώρες 14 λεπτά"
     }
   ]
 }
