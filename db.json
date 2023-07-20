@@ -26,30 +26,35 @@
       "id": 1,
       "name": "Petros",
       "surname": "Roditis",
+      "email": "abc@mail.gr",
       "totalMinutes": "2 ώρες 32 λεπτά"
     },
     {
       "id": 2,
       "name": "Παμίνος",
       "surname": "Παπανίδης",
+      "email": "abc@mail.gr",
       "totalMinutes": "3 ώρες 14 λεπτά"
     },
     {
       "id": 3,
       "name": "Constance",
       "surname": "Noring",
+      "email": "abc@mail.gr",
       "totalMinutes": "3 ώρες 14 λεπτά"
     },
     {
       "id": 4,
       "name": "Rita",
       "surname": "Book",
+      "email": "abc@mail.gr",
       "totalMinutes": "3 ώρες 14 λεπτά"
     },
     {
       "id": 5,
       "name": "Augusta",
       "surname": "Wind",
+      "email": "abc@mail.gr",
       "totalMinutes": "3 ώρες 14 λεπτά"
     }
   ],
@@ -58,24 +63,28 @@
       "id": 1,
       "name": "Petros",
       "surname": "Roditis",
+      "email": "abc@mail.gr",
       "totalMinutes": "2 ώρες 32 λεπτά"
     },
     {
       "id": 2,
       "name": "Παμίνος",
       "surname": "Παπανίδης",
+      "email": "abc@mail.gr",
       "totalMinutes": "3 ώρες 14 λεπτά"
     },
     {
       "id": 3,
       "name": "Constance",
       "surname": "Noring",
+      "email": "abc@mail.gr",
       "totalMinutes": "3 ώρες 14 λεπτά"
     },
     {
       "id": 4,
       "name": "Rita",
       "surname": "Book",
+      "email": "abc@mail.gr",
       "totalMinutes": "3 ώρες 14 λεπτά"
     }
   ],
@@ -84,18 +93,21 @@
       "id": 1,
       "name": "Petros",
       "surname": "Roditis",
+      "email": "abc@mail.gr",
       "totalMinutes": "2 ώρες 32 λεπτά"
     },
     {
       "id": 2,
       "name": "Παμίνος",
       "surname": "Παπανίδης",
+      "email": "abc@mail.gr",
       "totalMinutes": "3 ώρες 14 λεπτά"
     },
     {
       "id": 3,
       "name": "Constance",
       "surname": "Noring",
+      "email": "abc@mail.gr",
       "totalMinutes": "3 ώρες 14 λεπτά"
     }
   ]
